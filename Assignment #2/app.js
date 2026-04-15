@@ -1,30 +1,41 @@
-// javasciprt is case sensitive
+//Q #1
+// let userName ;
 
-// data types
-// string , number , bolean , null , undefined , NaN , digiNT
+// Q #2
+// let myName = "Muhammad Ayan";
 
-// variables
-// do not use white space in your variable
-// do not start your variables with numbers
-// special charector is not allaowed but this is allowed _  $ 
+// Q #3
+// part A: 
+// let message ;
 
-// let const var
+// part B: 
+// message = "Hello World";
 
-// variables name is idenfitier
-// = is asignment operator
+// part C: 
+// alert(message)
 
-//re dicleration varial repeatly
-// re assigment variable update
 
-var studentName = "Muhammad Ayan" // allowed rediclaration
-let studentPhoneNumber = 2380594045 // re assignment
-let city = 'lahore'
-const isPresend = true // not allowed re assignmenet re dicleration
+// Q #4
+// let name = "Ayan"
+// let age = 17
+// let course = "Web Development"
+// alert(name)
+// alert(age)
+// alert(course)
 
-console.log(studentName);
-console.log(studentPhoneNumber);
-console.log(isPresend);
-console.log(city);
+// Q #5
+// alert("pizza\npizz\npizz\npiz\npi\np")
 
-city = "karachi"
-console.log(city);
+// Q #6
+// let email = "example@example.com"
+// alert("my email address is - " + email)
+
+// Q #7
+// let book = "A smatter \n way to learn javascript"
+// alert("i am trying to learn from the book " + book)
+
+// Q #8
+// document.write("Yah I can write HTML contend through JS")
+
+// Q #9
+alert("“▬▬▬▬▬▬▬▬▬ஜ۩۞۩ஜ▬▬▬▬▬▬▬▬▬”")
